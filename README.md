@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Van Phong
 -  :mortar_board:Bachelor's Degree in Mechanical Engineering from Ho Chi Minh University of Technical Education.
-- 🌱I am currently studying at CyberSoft Center in Ho Chi Minh City (from June).
+- 🌱I have completed the Fullstack course in Cybersoft Academy, Ho Chi Minh City.
  - 👀 I am looking for a job in the field of Front-end web development.
 - 💞️I know basic HTML,CSS,JavaScript and TypeScript if you are interested please contact 0389542336 or phongckm93@gmail.com
 <!---
