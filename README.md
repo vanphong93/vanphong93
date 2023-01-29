@@ -14,3 +14,5 @@ You can click the Preview link to take a look at your changes.
 ![](https://img.shields.io/badge/-BootStrap-000?&logo=bootstrap)
 ![](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![](https://img.shields.io/badge/-TailwindCSS-000?&logo=tailwindcss)
+![](https://img.shields.io/badge/-Docker-000?&logo=docker)
+![](https://img.shields.io/badge/-NestJs-000?&logo=nestjs)
